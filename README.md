@@ -1,6 +1,6 @@
 # TecnoSoluciones GT
 
-**Nombre del estudiante:** Nayeli Urrutia  
+**Nombre del estudiante:** Nayeli Melissa Urrutia Orellana
 **Carné:** 0905-23-5575  
 **Nombre del proyecto:** TecnoSoluciones GT  
 
